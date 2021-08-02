@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "647914343580",
+    "firebase_url": "https://nursery-skillhub.firebaseio.com",
+    "project_id": "nursery-skillhub",
+    "storage_bucket": "nursery-skillhub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647914343580:android:adbd6dc7335dd26d313159",
+        "android_client_info": {
+          "package_name": "com.skillhub.nursery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647914343580-7m7a3lrq3uefkiaj1hpajdf9lkij4g0f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skillhub.nursery",
+            "certificate_hash": "74d2714af388b7fa788a1afa07f7fcc27d9b88ed"
+          }
+        },
+        {
+          "client_id": "647914343580-00pbucch4l9gd6c06lff8j4rdrnp2ksp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDduqx-9bkGIvef5zNrqZiGt_PrrOnO9ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647914343580-00pbucch4l9gd6c06lff8j4rdrnp2ksp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
